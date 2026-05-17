@@ -14,6 +14,8 @@ My first repository
 2. Fern
 3. Stark
 
+### What the Series Is About
+The story follows Frieren, an elven mage, after her adventure to defeat the Demon King. Unlike most fantasy stories, it focuses on memories, friendship, and the passage of time.
 
 ## Recommendation
 If you enjoy fantasy and emotional storytelling, I highly recommend watching **Frieren: Beyond Journey’s End**.
