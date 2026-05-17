@@ -1,2 +1,21 @@
 # app-dev
 My first repository
+
+# My Favorite Animated Series: Frieren: Beyond Journey’s End
+
+## Why I Like It
+- Amazing fantasy world
+- Emotional character development
+- Relaxing and meaningful atmosphere
+- Great soundtrack and visuals
+
+## Main Characters
+1. Frieren
+2. Fern
+3. Stark
+
+### What the Series Is About
+The story follows Frieren, an elven mage, after her adventure to defeat the Demon King. Unlike most fantasy stories, it focuses on memories, friendship, and the passage of time.
+
+## Recommendation
+If you enjoy fantasy and emotional storytelling, I highly recommend watching **Frieren: Beyond Journey’s End**.
